@@ -13,6 +13,6 @@ end
 
 def age_appropriate_birthday(birthday_kids)
   if age <= :age 12
-    puts 
+    puts "Happy Birthday #{name}! You are now #{age} years old!"
 end
 
